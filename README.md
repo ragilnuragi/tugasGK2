@@ -1,4 +1,4 @@
 Membuat Ruangan UGTV menggunakan Blender
-![image.png]( {https://drive.google.com/file/d/16-sKib45ph7XwLUT3OZ24tVOzZLJeAKY/view?usp=drive_link} )
+![image](https://github.com/ragilnuragi/tugasGK2/blob/287c2a3012acd0dd845dd0d29fbe98ac340a06ea/hqdefault.jpg)
 
-![image.png]( {https://drive.google.com/file/d/1o1ev6aJLovwBnV1gD2lbMB8_f98XKY25/view?usp=drive_link} )
+![image](https://github.com/ragilnuragi/tugasGK2/blob/287c2a3012acd0dd845dd0d29fbe98ac340a06ea/untitled1.png)
